@@ -1,20 +1,21 @@
 <h1 align="center">:file_cabinet: NLW_Feedback</h1>
 
 ## :memo: Descrição
-Evento da Rocketseat - Aula 2
+Evento da Rocketseat - Aula 3
 
 ## :books: Funcionalidades
 * <b>Funcionalidade 1</b>: Acessibilidade;
-* <b>Funcionalidade 2</b>: Envio de feedback;
-* <b>Funcionalidade 3</b>: Screenshot;
+* <b>Funcionalidade 2</b>: Envio de feedback e screenshots;
+* <b>Funcionalidade 3</b>: Teste Automatizado com Jest;
 
 ## :wrench: Tecnologias utilizadas
 * ReactJS;
 * Tailwind;
 * TypeScript
+* Jest para teste
 
 ## :soon: Implementação futura
-* Adicionar o feedback ao banco de dados e screenshot ao banco de dados
+* App Mobile 
 
 ## :handshake: Colaboradores
 <table>
